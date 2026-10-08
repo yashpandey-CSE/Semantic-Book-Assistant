@@ -4,13 +4,12 @@ langchain-community
 
 # LLM Providers
 
-langchain-openai
 langchain-mistralai
-openai
 mistralai
 
 # Vector Database
 
+langchain-chroma
 chromadb
 
 # Embedding Models
